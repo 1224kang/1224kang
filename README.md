@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical
 <!--
 **1224kang/1224kang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
