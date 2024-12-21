@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Static Badge](https://img.shields.io/badge/⭐Tech_Stack⭐-blue)
+
