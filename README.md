@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 <br/>
 <img src="https://img.shields.io/badge/scikitlearn-20232a.svg?style=for-the-badge&logo=scikitlearn&logoColor=#F7931E"/>
 <img src="https://img.shields.io/badge/pandas-20232a.svg?style=for-the-badge&logo=pandas&logoColor=#150458"/>
-<img alt="Static Badge" src="https://img.shields.io/badge/matplotlib-black">
+<img src="https://img.shields.io/badge/matplotlib"/>
 
 
