@@ -48,4 +48,6 @@ Here are some ideas to get you started:
    </div>
 <br>
 <h3 align="center">✉️Contact✉️</h3>
+<div align="center">
 <img src="https://img.shields.io/badge/cherry1224@sookmyung.ac.kr-20232a.svg?style=for-the-badge&logo=gmail&logoColor=#EA4335"/>&nbsp
+</div>
