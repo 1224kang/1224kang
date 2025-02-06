@@ -2,15 +2,8 @@
 
 <h3 align="center">⭐Tech_Stack⭐</h3>
   <div align="center">
-<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/>&nbsp
-<img src="https://img.shields.io/badge/javascript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=#F7DF1E"/>&nbsp
-<img src="https://img.shields.io/badge/html5-20232a.svg?style=for-the-badge&logo=html5&logoColor=#E34F26"/>&nbsp
-<img src="https://img.shields.io/badge/styledcomponents-20232a.svg?style=for-the-badge&logo=styledcomponents&logoColor=#DB7093"/>&nbsp
-<img src="https://img.shields.io/badge/css3-20232a.svg?style=for-the-badge&logo=css3&logoColor=#1572B6"/>&nbsp
-<img src="https://img.shields.io/badge/androidstudio-20232a.svg?style=for-the-badge&logo=androidstudio&logoColor=#3DDC84"/>&nbsp
 <img src="https://img.shields.io/badge/springboot-20232a.svg?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>&nbsp
 <img src="https://img.shields.io/badge/spring-20232a.svg?style=for-the-badge&logo=spring&logoColor=#6DB33F"/>&nbsp
-<img src="https://img.shields.io/badge/FastAPI-20232a.svg?style=for-the-badge&logo=FastAPI&logoColor=#009688"/>&nbsp
 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/scikitlearn-20232a.svg?style=for-the-badge&logo=scikitlearn&logoColor=#F7931E"/>&nbsp
@@ -22,7 +15,6 @@
   <div align="center">
 <img src="https://img.shields.io/badge/git-20232a.svg?style=for-the-badge&logo=git&logoColor=#F05032"/>&nbsp
 <img src="https://img.shields.io/badge/github-20232a.svg?style=for-the-badge&logo=github&logoColor=#181717"/>&nbsp
-<img src="https://img.shields.io/badge/notion-20232a.svg?style=for-the-badge&logo=notion&logoColor=#000000"/>&nbsp
 <img src="https://img.shields.io/badge/notion-20232a.svg?style=for-the-badge&logo=notion&logoColor=#000000"/>&nbsp
 <img src="https://img.shields.io/badge/figma-20232a.svg?style=for-the-badge&logo=figma&logoColor=#F24E1E"/>&nbsp
   </div>
