@@ -4,6 +4,8 @@
   <div align="center">
 <img src="https://img.shields.io/badge/springboot-20232a.svg?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>&nbsp
 <img src="https://img.shields.io/badge/spring-20232a.svg?style=for-the-badge&logo=spring&logoColor=#6DB33F"/>&nbsp
+<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=#6DB33F"/>&nbsp
+<img src="https://img.shields.io/badge/fastAPI-20232a.svg?style=for-the-badge&logo=fastAPI&logoColor=#6DB33F"/>&nbsp
 
 </div>
 <div align="center">
